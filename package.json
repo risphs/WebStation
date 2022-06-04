@@ -1,0 +1,28 @@
+{
+  "name": "webstation",
+  "version": "1.0.0",
+  "description": "Node WebStation is a powerful tool designed for developers to use to create an advanced WebStation for any use all without *not* having the requirement to code.",
+  "main": "main.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/risphs/WebStation.git"
+  },
+  "author": "risphs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/risphs/WebStation/issues"
+  },
+  "homepage": "https://github.com/risphs/WebStation#readme",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "express": "^4.18.1",
+    "ws": "^8.7.0"
+  }
+}

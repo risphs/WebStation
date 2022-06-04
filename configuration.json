@@ -1,0 +1,13 @@
+{
+    "port": 8080,
+    "domain": "localhost",
+
+    "webStationProtocol": 1,
+    "useDefaultProtocol": true,
+
+    "onMessageSeperateProtocolFile": "",
+    "useDifferentProtocol": true,
+
+    "staticMessage": "Hello World!",
+    "useStaticMessage": true
+}
